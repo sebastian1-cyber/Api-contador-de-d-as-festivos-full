@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\bin\Debug\net10.0\apiFestivos.dominio.deps.json
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\bin\Debug\net10.0\apiFestivos.dominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\bin\Debug\net10.0\apiFestivos.dominio.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.sourcelink.json
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\refint\apiFestivos.dominio.dll
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\apiFestivos.dominio.pdb
+C:\Users\user\OneDrive\Desktop\sebastian_prog\semestre 6\Herramienta de progamacion 3\Calendario_Festivos_HP_3\apiFestivos.dominio\obj\Debug\net10.0\ref\apiFestivos.dominio.dll
